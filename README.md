@@ -1,4 +1,4 @@
-# lab3_php_database
+# Praktikum 6: PHP OOP lanjutan
 # Tugas Pemograman Web 2
 ## Profil
 | #               | Biodata           |
