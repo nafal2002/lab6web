@@ -1,4 +1,4 @@
-# Praktikum 6: PHP OOP lanjutan
+# Pertemuan 7: PHP OOP lanjutan
 # Tugas Pemograman Web 2
 ## Profil
 | #               | Biodata           |
